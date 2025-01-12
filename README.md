@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello! I'm Khushbu Kumari, Software Engineer 👩‍💻
 
-I am Khushbu Kumari, a passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
+A passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
 
 ⚡ Quick Note: I lost access to my previous GitHub account. This is my new space where I'll be uploading more exciting projects soon. Stay tuned! 🚀
 
@@ -8,11 +8,11 @@ I am Khushbu Kumari, a passionate and dedicated Full-Stack Developer and Softwar
 
 💼 Previous Roles:
 
-**Course Builder and Tutor (Part-Time)** at Boston University (May 2024 - Present)
+**Part-Time Course Builder and Tutor** at Boston University (May 2024 - Present)
 
-Software Engineer II at Java R&D, India (May 2022 - Aug 2023)
+**Software Engineer II** at Java R&D, India (May 2022 - Aug 2023)
 
-Programmer Analyst at Cognizant Technology Solutions, India (Aug 2020 - May 2022)  
+**Programmer Analyst** at Cognizant Technology Solutions, India (Aug 2020 - May 2022)  
 
 📫 How to reach me:
 
