@@ -12,7 +12,9 @@ A passionate and dedicated Full-Stack Developer and Software Engineer from Bosto
 
 **Software Engineer II** at Java R&D, India (May 2022 - Aug 2023)
 
-**Programmer Analyst** at Cognizant Technology Solutions, India (Aug 2020 - May 2022)  
+**Programmer Analyst** at Cognizant Technology Solutions, India (Aug 2020 - May 2022)
+
+**Programmer Analyst Trainee** at Cognizant Technology Solutions, India (Feb 2020 - June 2020)
 
 📫 How to reach me:
 
