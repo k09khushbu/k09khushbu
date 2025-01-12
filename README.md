@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am Khushbu Kumari, a passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
 
 🌱 Currently Pursuing: MS in Computer Information Systems at Boston University (Expected Jan 2025)
