@@ -1,6 +1,6 @@
 ## Hello! I'm Khushbu Kumari, Software Engineer 👩‍💻
 
-A passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
+A passionate and dedicated Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
 
 ⚡ Heads Up: I lost access to my previous GitHub account. This is my fresh start, and I’m gearing up to share some amazing projects soon. Stay tuned! 🚀
 
