@@ -2,7 +2,7 @@
 
 A passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
 
-⚡ Quick Note: I lost access to my previous GitHub account. This is my new space where I'll be uploading more exciting projects soon. Stay tuned! 🚀
+⚡ Heads Up: I lost access to my previous GitHub account. This is my fresh start, and I’m gearing up to share some amazing projects soon. Stay tuned! 🚀
 
 🌱 Currently Pursuing: MS in Computer Information Systems at Boston University.
 
