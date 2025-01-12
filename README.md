@@ -7,7 +7,8 @@ I am Khushbu Kumari, a passionate and dedicated Full-Stack Developer and Softwar
 🌱 Currently Pursuing: MS in Computer Information Systems at Boston University.
 
 💼 Previous Roles:
-Course Builder and Tutor (Part-Time) at Boston University (May 2024 - Present)
+
+**Course Builder and Tutor (Part-Time)** at Boston University (May 2024 - Present)
 
 Software Engineer II at Java R&D, India (May 2022 - Aug 2023)
 
