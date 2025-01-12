@@ -1,6 +1,16 @@
 ## Hi there 👋
 
 <!--
+I am Khushbu Kumari, a passionate and dedicated Full-Stack Developer and Software Engineer from Boston, MA. I have a strong background in software development and cloud computing with experience across various industries. I love solving complex problems, building scalable applications, and learning about emerging technologies.
+
+🌱 Currently Pursuing: MS in Computer Information Systems at Boston University (Expected Jan 2025)
+
+💼 Previous Roles:
+Course Builder and Tutor (Part-Time) at Boston University (May 2024 - Present)
+
+Software Engineer II at Java R&D, India (May 2022 - Aug 2023)
+
+Programmer Analyst at Cognizant Technology Solutions, India (Aug 2020 - May 2022)
 **k09khushbu/k09khushbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
