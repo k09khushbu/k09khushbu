@@ -14,8 +14,14 @@ Software Engineer II at Java R&D, India (May 2022 - Aug 2023)
 Programmer Analyst at Cognizant Technology Solutions, India (Aug 2020 - May 2022)  
 
 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushbukkumari/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushbukumari.bu@gmail.com)
+<a href="https://www.linkedin.com/in/khushbukkumari/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:khushbukumari.bu@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Gmail" width="40" height="40"/>
+</a>
+<a href="https://instagram.com//_khushbukumari_" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_khushbukumari_)
